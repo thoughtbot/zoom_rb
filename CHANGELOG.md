@@ -1,3 +1,8 @@
+# 0.11.1
+
+### Fixes
+* Update README to no longer say `require 'zoom'`
+
 # 0.11.0
 
 This is the first CHANGELOG entry.
